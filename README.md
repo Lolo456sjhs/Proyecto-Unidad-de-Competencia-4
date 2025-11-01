@@ -56,6 +56,12 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 6,2,13
 
 Esta es la imagen en si de como debende ir:
+
+
+
+
+
+
 <img width="482" height="588" alt="image" src="https://github.com/user-attachments/assets/801bd820-e1fe-4900-9e0f-e00d024dbab1" />
 
 
