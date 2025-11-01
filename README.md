@@ -12,7 +12,7 @@ Los resultados incluyen el **proceso paso a paso** y la **ecuación final**, y s
 
 ## Cómo ejecutar el proyecto
 
-### Opción 1: Descargar y ejecutar el JAR directamente o descargar el proyecto
+### Opciónes: Descargar y ejecutar el JAR directamente o descargar el proyecto
 
 1. Descarga el archivo JAR del proyecto desde el repositorio (o desde la carpeta `target`).  
    Este: `MetodosRegresion-1.0-SNAPSHOT-jar-with-dependencies.jar`.  
