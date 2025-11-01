@@ -26,9 +26,8 @@ En el proyecto, los datos se ingresan en el cuadro de texto `txtDatos`.
 Debes escribirlos en **formato CSV**, separados por comas, y cada fila representa un registro.  
 
 Ejemplode Cada metodo:
-
-### 1️⃣ Regresión Lineal Simple
 ```csv
+### 1️⃣ Regresión Lineal Simple
 x,y
 1,2
 2,3
