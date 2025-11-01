@@ -34,6 +34,7 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 4,4
 5,6
 6,7
+<img width="482" height="588" alt="image" src="https://github.com/user-attachments/assets/801bd820-e1fe-4900-9e0f-e00d024dbab1" />
 
 ### 2️⃣ Regresión Polinomial
 - Formato: `x,y` (cada línea un par de valores)
