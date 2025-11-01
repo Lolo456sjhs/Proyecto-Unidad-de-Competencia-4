@@ -24,7 +24,7 @@ Los resultados incluyen el **proceso paso a paso** y la **ecuación final**, y s
 En el proyecto, los datos se ingresan en el cuadro de texto `txtDatos`.  
 Debes escribirlos en **formato CSV**, separados por comas, y cada fila representa un registro.  
 
-Ejemplode Cada metodo y solo los numeros copear con las x,y ect no funciona:
+Ejemplode Cada metodo y solo los numeros copear con las x,y etc no funciona:
 ```csv
 ### 1️⃣ Regresión Lineal Simple
 x,y
