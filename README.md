@@ -34,9 +34,8 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 4,4
 5,6
 6,7
-<img width="482" height="588" alt="image" src="https://github.com/user-attachments/assets/801bd820-e1fe-4900-9e0f-e00d024dbab1" />
 
-### 2️⃣ Regresión Polinomial
+### 3️⃣ Regresión Polinomial
 - Formato: `x,y` (cada línea un par de valores)
 - Ejemplo (grado 2):
 1,2
@@ -46,7 +45,7 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 5,11
 6,13
 
-### 3️⃣ Regresión Lineal Múltiple
+### 2️⃣ Regresión Lineal Múltiple
 - Formato: `x1,x2,...,xn,y` (último valor es la variable dependiente)
 - Ejemplo (2 predictores):
 1,2,5
@@ -55,6 +54,11 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 4,3,12
 5,5,15
 6,2,13
+
+Esta es la imagen en si de como debende ir:
+<img width="482" height="588" alt="image" src="https://github.com/user-attachments/assets/801bd820-e1fe-4900-9e0f-e00d024dbab1" />
+
+
 
 ## Salida esperada
 Dependiendo del método, la aplicación mostrará:
