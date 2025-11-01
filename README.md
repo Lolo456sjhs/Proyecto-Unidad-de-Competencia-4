@@ -9,7 +9,7 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 
 ## Cómo usar la aplicación
 
-1. Ejecuta el proyecto (`MetodosRegresion.jar` el .jar esta en la carpeta tarjet o desde NetBeans).  
+1. Ejecuta el proyecto (`MetodosRegresion-1.0-SNAPSHOT-jar-with-dependencies.jar` el .jar esta en la carpeta tarjet o desde NetBeans).  
 2. Selecciona el método de regresión que deseas calcular mediante los **radio buttons**:  
    - Regresión Simple  
    - Regresión Múltiple  
