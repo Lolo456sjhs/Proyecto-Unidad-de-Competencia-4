@@ -4,9 +4,9 @@ Hecho por: Humberto Barreras Carrisoza
 Este proyecto es una **herramienta en Java para realizar regresiones estadísticas**.  
 Permite calcular:
 
-- **Regresión Lineal Simple** (una variable independiente)  
-- **Regresión Lineal Múltiple** (varias variables independientes)  
-- **Regresión Polinomial** (de cualquier grado)
+- **Regresión Lineal Simple** (una variable independiente Ejemplo: 1 siempre va)  
+- **Regresión Lineal Múltiple** (varias variables independientes Ejemplo: 2)  
+- **Regresión Polinomial** (de cualquier grado Ejemplo: en el aparato de Número de variables hay mismo se pone el grado como 2 etc)
 
 Los resultados incluyen el **proceso paso a paso** y la **ecuación final**, y se muestran en un **JTable**.
 
