@@ -12,20 +12,18 @@ Los resultados incluyen el **proceso paso a paso** y la **ecuación final**, y s
 
 ## Cómo ejecutar el proyecto
 
-1. Clonar o descargar el repositorio.  
-2. Abrir el proyecto en NetBeans o cualquier IDE compatible con Maven.  
-3. Ejecutar el proyecto (`Run` o `java -jar MetodosRegresion-1.0-SNAPSHOT-jar-with-dependencies.jar`).  
-4. Ingresar los datos en el cuadro de texto `txtDatos`.  
-5. Seleccionar el **método de regresión** usando los **radio buttons**.  
-6. Presionar el botón **Calcular**.  
-7. Observar el procedimiento y la ecuación final en `txtResultado`.  
+### Opción 1: Descargar y ejecutar el JAR directamente o descargar el proyecto
+
+1. Descarga el archivo JAR del proyecto desde el repositorio (o desde la carpeta `target`).  
+   Este: `MetodosRegresion-1.0-SNAPSHOT-jar-with-dependencies.jar`.  
+2. Asegúrar de tener **Java JDK 21 o superior** instalado. 
 
 ## Cómo ingresar los datos
 
 En el proyecto, los datos se ingresan en el cuadro de texto `txtDatos`.  
 Debes escribirlos en **formato CSV**, separados por comas, y cada fila representa un registro.  
 
-Ejemplode Cada metodo:
+Ejemplode Cada metodo y solo los numeros copear con las x,y ect no funciona:
 ```csv
 ### 1️⃣ Regresión Lineal Simple
 x,y
