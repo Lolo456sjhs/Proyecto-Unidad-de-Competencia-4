@@ -25,15 +25,16 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 
 ## Cómo ingresar los datos
 
-### 1️⃣ Regresión Lineal Simple
-- Formato: `x,y` (cada línea un par de valores)
-- Ejemplo:
+### 1️⃣ ```markdown
+Regresión Lineal Simple
+```csv
+x,y
 1,2
 2,3
 3,5
-4,4
-5,6
-6,7
+4,7
+5,11
+6,13
 
 ### 3️⃣ Regresión Polinomial
 - Formato: `x,y` (cada línea un par de valores)
