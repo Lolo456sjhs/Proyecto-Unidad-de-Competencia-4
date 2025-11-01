@@ -25,8 +25,14 @@ La aplicación permite ingresar los datos manualmente en un cuadro de texto (`tx
 
 ## Cómo ingresar los datos
 
-### 1️⃣ ```markdown
-Regresión Lineal Simple
+En el proyecto, los datos se ingresan en el cuadro de texto `txtDatos`.  
+Debes escribirlos en **formato CSV**, separados por comas, y cada fila representa un registro.  
+El formato depende del método de regresión que vayas a usar:
+
+### 1️⃣ Regresión Lineal Simple
+- Solo se necesita una variable `x` y la variable `y`.
+- Ejemplo:
+
 ```csv
 x,y
 1,2
@@ -35,37 +41,34 @@ x,y
 4,7
 5,11
 6,13
+2️⃣ Regresión Lineal Múltiple
+Se necesitan dos o más variables independientes (x1, x2, …) y la variable y.
 
-### 3️⃣ Regresión Polinomial
-- Formato: `x,y` (cada línea un par de valores)
-- Ejemplo (grado 2):
-1,2
-2,3
-3,5
-4,7
-5,11
-6,13
+Ejemplo:
 
-### 2️⃣ Regresión Lineal Múltiple
-- Formato: `x1,x2,...,xn,y` (último valor es la variable dependiente)
-- Ejemplo (2 predictores):
+csv
+Copiar código
+x1,x2,y
 1,2,5
 2,1,6
 3,4,10
 4,3,12
 5,5,15
 6,2,13
+3️⃣ Regresión Polinomial
+Se necesita una variable x y la variable y. El grado del polinomio se define en el campo txtNumVariables.
 
-Esta es la imagen en si de como debende ir:
+Ejemplo para un polinomio de grado 2:
 
-
-
-
-
-
-<img width="482" height="588" alt="image" src="https://github.com/user-attachments/assets/801bd820-e1fe-4900-9e0f-e00d024dbab1" />
-
-
+csv
+Copiar código
+x,y
+1,5
+2,6
+3,10
+4,12
+5,15
+6,13
 
 ## Salida esperada
 Dependiendo del método, la aplicación mostrará:
