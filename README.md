@@ -1,4 +1,5 @@
 # Proyecto Unidad de Competencia 4
+Hecho por:Humberto Barreras Carrisoza
 
 Este proyecto es una **herramienta en Java para realizar regresiones estadísticas**.  
 Permite calcular:
